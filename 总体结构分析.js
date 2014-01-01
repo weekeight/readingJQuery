@@ -94,6 +94,5 @@
 		//...
 	})
 
-	
 	window.$ = window.jQuery = jQuery;
 })(window);
